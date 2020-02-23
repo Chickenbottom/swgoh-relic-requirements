@@ -1,0 +1,19 @@
+<div>
+  Select levels:
+  <div ngbDropdown class="d-inline-block mx-3">
+    <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>From: {{bottomTier}}</button>
+    <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+      <span *ngFor="let tier of tiers">
+        <button (click)="setTier(tierKeys.bottom, tier)" ngbDropdownItem>{{tier}}</button>
+      </span>
+    </div>
+  </div>
+  <div ngbDropdown class="d-inline-block mx-3">
+    <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>To: {{topTier}}</button>
+    <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+      <span *ngFor="let tier of tiers">
+        <button (click)="setTier(tierKeys.top, tier)" ngbDropdownItem>{{tier}}</button>
+      </span>
+    </div>
+  </div>
+</div>

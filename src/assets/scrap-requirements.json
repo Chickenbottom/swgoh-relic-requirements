@@ -1,0 +1,68 @@
+{
+  "1": [
+    {
+      "carboniteCircuitBoard": 40
+    }
+  ],
+  "2": [
+    {
+      "carboniteCircuitBoard": 30,
+      "bronziumWiring": 40,
+      "fragmentedSignalData": 15
+    }
+  ],
+  "3": [
+    {
+      "carboniteCircuitBoard": 30,
+      "bronziumWiring": 40,
+      "chromiumTransistor": 20,
+      "fragmentedSignalData": 20,
+      "incompleteSignalData": 15
+    }
+  ],
+  "4": [
+    {
+      "carboniteCircuitBoard": 30,
+      "bronziumWiring": 40,
+      "chromiumTransistor": 40,
+      "fragmentedSignalData": 20,
+      "incompleteSignalData": 25
+    }
+  ],
+  "5": [
+    {
+      "carboniteCircuitBoard": 30,
+      "bronziumWiring": 40,
+      "chromiumTransistor": 30,
+      "aurodiumHeatsink": 20,
+      "fragmentedSignalData": 20,
+      "incompleteSignalData": 25,
+      "flawedSignalData": 15
+    }
+  ],
+  "6": [
+    {
+      "carboniteCircuitBoard": 20,
+      "bronziumWiring": 30,
+      "chromiumTransistor": 30,
+      "aurodiumHeatsink": 20,
+      "electriumConductor": 20,
+      "fragmentedSignalData": 20,
+      "incompleteSignalData": 25,
+      "flawedSignalData": 25
+    }
+  ],
+  "7": [
+    {
+      "carboniteCircuitBoard": 20,
+      "bronziumWiring": 30,
+      "chromiumTransistor": 20,
+      "aurodiumHeatsink": 20,
+      "electriumConductor": 20,
+      "zinbiddleCard": 10,
+      "fragmentedSignalData": 20,
+      "incompleteSignalData": 25,
+      "flawedSignalData": 35
+    }
+  ]
+}
