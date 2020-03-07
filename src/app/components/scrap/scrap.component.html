@@ -1,59 +1,90 @@
 <div class="container mt-5">
-  <div class="col-12">
-    <span class="col-lg-6 col-12 mt-3">
-      Character: <input type="text" [(ngModel)]="characterName" />
-    </span>
-    <span class="col-lg-6 col-12 mt-3">
-      Select levels:
-    </span>
-    <span class="col-lg-6 col-12 mt-3">
-      <div ngbDropdown class="d-inline-block mx-3">
-        <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>Currently At: {{currentTier}}</button>
-        <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
-          <span *ngFor="let tier of currentTierOptions">
-            <button (click)="setTier(tierKeys.bottom, tier)" ngbDropdownItem>{{tier}}</button>
-          </span>
-        </div>
+  <div class="row">
+    <div class="col-lg-6 col-12 mt-3">
+      <div>
+        <label for="characterInput">
+          <strong>Character:</strong>
+        </label>
       </div>
-      <div ngbDropdown class="d-inline-block mx-3">
-        <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>Go To: {{desiredTier}}</button>
-        <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
-          <span *ngFor="let tier of getDesiredTierOptions()">
-            <button (click)="setTier(tierKeys.top, tier)" ngbDropdownItem>{{tier}}</button>
-          </span>
-        </div>
+      <div class="mt-2">
+        <input type="text" id="characterInput" [(ngModel)]="characterName" class="relic-inputs char-input" />
       </div>
-    </span>
-  </div>
-  <div class="col-12">
-    <div class="mt-3">
-      <button class="btn btn-outline-primary mr-5" (click)="addToGrandTotals()">Add Character</button>
-      <button class="btn btn-outline-danger mr-5" (click)="resetAllCharacters()">Clear</button>
     </div>
-  </div>
-  <div class="col-12">
-    <div class="row mt-5 col" *ngIf="showRequirements()">
-      <div class="col-lg-5 col-12">
-        <strong>Characters:</strong>
-          <div class="pl-2 row">
-            <div *ngFor="let char of totalCharacters" class="col-lg-7 col-12">
-              {{char.name}}: {{char.currentTier}} > {{char.desiredTier}}
-              <span class="pull-right">
-                <button class="btn-sm btn btn-outline-danger" (click)="removeCharacter(char)">X</button>
+    <div class="col-lg-6 col-12 mt-3">
+      <div>
+        <label for="multiplierInput">
+          <strong>Multiplier</strong>
+        </label>
+      </div>
+      <div class="mt-2">
+        <input #multiInput
+          type="number"
+          id="multiplierInput"
+          [(ngModel)]="multiplier"
+          (ngModelChange)="multiInput.value = validateMultiplier()"
+          (blur)="multiInput.value = blurMultiplier()"
+          step="1" min="1"
+          class="relic-inputs char-input" />
+      </div>
+    </div>
+    <div class="col-12 my-3">
+      <strong>Select levels:</strong>
+      <div class="mt-3 row">
+        <div class="col-lg-6 col-12 my-3">
+          <div ngbDropdown class="d-inline-block w-100">
+            <button class="btn btn-outline-success relic-inputs relic-lvl-btn" id="dropdownBasic1" ngbDropdownToggle>Currently At: {{currentTier}}</button>
+            <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+              <span *ngFor="let tier of currentTierOptions">
+                <button (click)="setTier(tierKeys.bottom, tier)" ngbDropdownItem>{{tier}}</button>
               </span>
             </div>
-            <div class="col-lg-2 col-12"></div>
           </div>
+        </div>
+        <div class="col-lg-6 col-12 my-3">
+          <div ngbDropdown class="d-inline-block w-100">
+            <button class="btn btn-outline-success relic-inputs relic-lvl-btn" id="dropdownBasic1" ngbDropdownToggle>Go To: {{desiredTier}}</button>
+            <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+              <span *ngFor="let tier of getDesiredTierOptions()">
+                <button (click)="setTier(tierKeys.top, tier)" ngbDropdownItem>{{tier}}</button>
+              </span>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="col-lg-5 col-12">
-        <strong>Scrap Totals:</strong>
-        <div *ngFor="let scrap of scrapNames" class="pl-2">
-          {{printTotals(scrap)}}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-6 col-12 mt-3">
+      <div class="pb-3">
+        <button class="btn add-char-btn relic-inputs" (click)="addToGrandTotals()">Add Character</button>
+      </div>
+    </div>
+    <div class="col-lg-6 col-12 mt-3">
+      <div class="pb-3">
+        <button class="btn clear-char-input-btn relic-inputs" (click)="resetAllCharacters()">Clear</button>
+      </div>
+    </div>
+  </div>
+  <div class="row mt-5" *ngIf="showRequirements()">
+    <div class="col-lg-6 col-12 mt-3">
+      <strong>Characters:</strong>
+        <div class="pl-2 row">
+          <div *ngFor="let char of totalCharacters" class="col-lg-7 col-12 py-2">
+            <span (click)="removeCharacter(char)" class="pr-3">
+              <fa-icon class="remove-char-btn" [icon]="faTimesCircle"></fa-icon>
+            </span>
+            {{char.name}}: {{char.currentTier}} > {{char.desiredTier}}
+          </div>
         </div>
-        <strong>Signal Data Totals:</strong>
-        <div *ngFor="let signalData of signalDataNames" class="pl-2">
-          {{printTotals(signalData)}}
-        </div>
+    </div>
+    <div class="col-lg-6 col-12 mt-3">
+      <strong>Scrap Totals:</strong>
+      <div *ngFor="let scrap of scrapNames" class="pl-2">
+        {{printTotals(scrap)}}
+      </div>
+      <strong>Signal Data Totals:</strong>
+      <div *ngFor="let signalData of signalDataNames" class="pl-2">
+        {{printTotals(signalData)}}
       </div>
     </div>
   </div>

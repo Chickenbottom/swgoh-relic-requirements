@@ -1,0 +1,40 @@
+.relic-inputs, .relics-inputs:focus {
+  border-radius: 10px;
+  width: 100%
+}
+
+.char-input {
+  height: 2.5em
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="number"]:focus,
+.uneditable-input:focus {
+  border-color: rgba(144, 240, 173, 0.8);
+  box-shadow: 0 1px 1px rgba(255, 255, 255, 0.075) inset, 0 0 8px rgba(144, 240, 173, 0.6);
+  outline: 0 none;
+}
+
+.add-char-btn {
+  border-color: rgba(1, 71, 22, 0.8);
+  color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(144, 240, 173, 0.8);
+}
+
+.clear-char-input-btn {
+  border-color: rgba(134, 3, 3, 0.8);
+  color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(229, 133, 133, 0.8);
+}
+
+.relic-lvl-btn {
+  background-color: rgb(255, 255, 255);
+}
+
+.remove-char-btn {
+  color: rgba(134, 3, 3, 0.8);
+  //color: rgba(229, 133, 133, 0.8);
+  cursor: pointer;
+}
+
