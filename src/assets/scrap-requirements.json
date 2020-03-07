@@ -1,68 +1,82 @@
 {
-  "1": [
-    {
+  "0": {},
+  "1": {
+    "scrap": {
       "carboniteCircuitBoard": 40
-    }
-  ],
-  "2": [
-    {
+    },
+    "signalData": {}
+  },
+  "2": {
+    "scrap": {
       "carboniteCircuitBoard": 30,
-      "bronziumWiring": 40,
+      "bronziumWiring": 40
+    },
+    "signalData": {
       "fragmentedSignalData": 15
     }
-  ],
-  "3": [
-    {
+  },
+  "3": {
+    "scrap": {
       "carboniteCircuitBoard": 30,
       "bronziumWiring": 40,
-      "chromiumTransistor": 20,
+      "chromiumTransistor": 20
+    },
+    "signalData": {
       "fragmentedSignalData": 20,
       "incompleteSignalData": 15
     }
-  ],
-  "4": [
-    {
+  },
+  "4": {
+    "scrap": {
       "carboniteCircuitBoard": 30,
       "bronziumWiring": 40,
-      "chromiumTransistor": 40,
+      "chromiumTransistor": 40
+    },
+    "signalData": {
       "fragmentedSignalData": 20,
       "incompleteSignalData": 25
     }
-  ],
-  "5": [
-    {
+  },
+  "5": {
+    "scrap": {
       "carboniteCircuitBoard": 30,
       "bronziumWiring": 40,
       "chromiumTransistor": 30,
-      "aurodiumHeatsink": 20,
+      "aurodiumHeatsink": 20
+    },
+    "signalData": {
       "fragmentedSignalData": 20,
       "incompleteSignalData": 25,
       "flawedSignalData": 15
     }
-  ],
-  "6": [
-    {
+  },
+  "6": {
+    "scrap": {
       "carboniteCircuitBoard": 20,
       "bronziumWiring": 30,
       "chromiumTransistor": 30,
       "aurodiumHeatsink": 20,
-      "electriumConductor": 20,
+      "electriumConductor": 20
+    },
+    "signalData": {
       "fragmentedSignalData": 20,
       "incompleteSignalData": 25,
       "flawedSignalData": 25
     }
-  ],
-  "7": [
-    {
+  },
+  "7": {
+    "scrap": {
       "carboniteCircuitBoard": 20,
       "bronziumWiring": 30,
       "chromiumTransistor": 20,
       "aurodiumHeatsink": 20,
       "electriumConductor": 20,
-      "zinbiddleCard": 10,
+      "zinbiddleCard": 10
+    },
+    "signalData": {
       "fragmentedSignalData": 20,
       "incompleteSignalData": 25,
       "flawedSignalData": 35
     }
-  ]
+  }
 }
