@@ -69,11 +69,18 @@
     <div class="col-lg-6 col-12 mt-3">
       <strong>Characters:</strong>
         <div class="pl-2 row">
-          <div *ngFor="let char of totalCharacters" class="col-lg-7 col-12 py-2">
-            <span (click)="removeCharacter(char)" class="pr-3">
+          <div *ngFor="let char of totalCharacters" class="col-12 py-2 row">
+            <div (click)="removeCharacter(char)" class="pr-3 col-lg-1 col-12">
               <fa-icon class="remove-char-btn" [icon]="faTimesCircle"></fa-icon>
-            </span>
-            {{char.name}}: {{char.currentTier}} > {{char.desiredTier}}
+            </div>
+            <div class="col-lg-3 col-12 character-name ml-3">
+              {{char.name}}
+            </div>
+            <div class="col-lg-7 col-12 ml-3">
+              <span class="subText">from:&nbsp;</span><strong>{{char.currentTier}}</strong>
+              <span class="subText">&nbsp;to:&nbsp;</span> <strong>{{char.desiredTier}}</strong>
+              <span *ngIf="showMultiplier(char.multiplier)" class="subText">x{{char.multiplier}}</span>
+            </div>
           </div>
         </div>
     </div>

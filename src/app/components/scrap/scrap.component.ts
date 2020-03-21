@@ -22,7 +22,7 @@ export class ScrapComponent implements OnInit {
   public scrapNames = [];
   public signalDataNames = [];
   public currentTierOptions = [];
-  public totalCharacters: ScrapCharacter[] = [];
+  public totalCharacters: Array<ScrapCharacter> = [];
   public faTimesCircle = faTimesCircle;
 
   private allTiers = [0, 1, 2, 3, 4, 5, 6, 7];
@@ -66,6 +66,7 @@ export class ScrapComponent implements OnInit {
     this.characterName = '';
     this.currentTier = this.allTiers[0];
     this.desiredTier = _.last(this.allTiers);
+    this.multiplier = 1;
   }
 
   setTier(key: TierKeys, value: number): void {
@@ -144,7 +145,7 @@ export class ScrapComponent implements OnInit {
     }
   }
 
-  getDesiredTierOptions(): number[] {
+  getDesiredTierOptions(): Array<number> {
     return _.range(this.currentTier + 1, this.desiredTier + 1);
   }
 
@@ -159,15 +160,19 @@ export class ScrapComponent implements OnInit {
   }
 
   validateMultiplier(): number {
-    const curNum = _.toInteger(this.multiplier);
+    // const curNum = _.toInteger(this.multiplier);
 
-    return this.multiplier;
+    return _.toInteger(this.multiplier);
   }
 
   blurMultiplier(): number {
     this.multiplier = this.multiplier > 0 ? this.multiplier : 1;
 
     return this.multiplier;
+  }
+
+  showMultiplier(multiplier: number): boolean {
+    return multiplier > 1;
   }
 
 }

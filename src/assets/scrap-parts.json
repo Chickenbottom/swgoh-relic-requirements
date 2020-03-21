@@ -1,0 +1,2563 @@
+{
+  "carboniteCircuitBoard": {
+    "name": "Carbonite Circuit Board",
+    "requiredPoints": 35,
+    "gear": [
+      {
+        "name": "Mk 1 BlasTech Weapon Mod",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 4-F (Hard)",
+          "Light Side Battles: 4-L (Normal)",
+          "Light Side Battles: 1-C (Hard)",
+          "Light Side Battles: 1-C (Normal)",
+          "Light Side Battles: 1-E (Normal)",
+          "Light Side Battles: 2-C (Hard)",
+          "Light Side Battles: 2-E (Hard)",
+          "Light Side Battles: 2-F (Normal)",
+          "Light Side Battles: 3-A (Hard)",
+          "Dark Side Battles: 6-G (Normal)",
+          "Light Side Battles: 3-B (Normal)",
+          "Dark Side Battles: 1-A (Hard)",
+          "Dark Side Battles: 1-D (Normal)",
+          "Fleet Battles: 2-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 BAW Armor Mod",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 8-E (Normal)",
+          "Light Side Battles: 4-G (Normal)",
+          "Light Side Battles: 1-A (Hard)",
+          "Dark Side Battles: 5-C (Normal)",
+          "Light Side Battles: 1-B (Hard)",
+          "Light Side Battles: 1-C (Normal)",
+          "Light Side Battles: 1-D (Hard)",
+          "Light Side Battles: 1-D (Normal)",
+          "Light Side Battles: 1-E (Normal)",
+          "Light Side Battles: 2-B (Hard)",
+          "Light Side Battles: 2-D (Normal)",
+          "Dark Side Battles: 2-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Neuro-Saav Electrobinoculars",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 4-E (Hard)",
+          "Light Side Battles: 4-I (Normal)",
+          "Light Side Battles: 1-C (Normal)",
+          "Light Side Battles: 1-D (Hard)",
+          "Light Side Battles: 1-E (Normal)",
+          "Light Side Battles: 1-F (Normal)",
+          "Light Side Battles: 2-A (Normal)",
+          "Light Side Battles: 2-F (Hard)",
+          "Light Side Battles: 2-H (Normal)",
+          "Dark Side Battles: 2-B (Hard)",
+          "Dark Side Battles: 4-F (Hard)",
+          "Dark Side Battles: 4-K (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 TaggeCo Holo Lens",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 5-F (Hard)",
+          "Light Side Battles: 5-L (Normal)",
+          "Light Side Battles: 6-I (Normal)",
+          "Light Side Battles: 1-A (Hard)",
+          "Light Side Battles: 1-C (Normal)",
+          "Light Side Battles: 1-F (Normal)",
+          "Light Side Battles: 2-D (Hard)",
+          "Light Side Battles: 3-C (Hard)",
+          "Light Side Battles: 3-C (Normal)",
+          "Dark Side Battles: 4-C (Hard)",
+          "Dark Side Battles: 4-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Nubian Security Scanner",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-F (Hard)",
+          "Light Side Battles: 3-I (Normal)",
+          "Light Side Battles: 1-A (Hard)",
+          "Light Side Battles: 1-C (Normal)",
+          "Dark Side Battles: 5-G (Normal)",
+          "Light Side Battles: 1-E (Normal)",
+          "Dark Side Battles: 1-A (Hard)",
+          "Dark Side Battles: 1-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Loronar Power Cell",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 8-H (Normal)",
+          "Light Side Battles: 3-H (Normal)",
+          "Light Side Battles: 1-D (Normal)",
+          "Light Side Battles: 1-E (Normal)",
+          "Light Side Battles: 2-A (Hard)",
+          "Light Side Battles: 2-C (Normal)",
+          "Dark Side Battles: 6-B (Normal)",
+          "Light Side Battles: 3-B (Hard)",
+          "Dark Side Battles: 4-F (Hard)",
+          "Dark Side Battles: 4-L (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Fabritech Data Pad",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 4-B (Hard)",
+          "Light Side Battles: 4-C (Hard)",
+          "Light Side Battles: 4-C (Normal)",
+          "Light Side Battles: 4-F (Normal)",
+          "Light Side Battles: 1-B (Hard)",
+          "Light Side Battles: 1-D (Normal)",
+          "Light Side Battles: 1-F (Normal)",
+          "Light Side Battles: 2-C (Hard)",
+          "Dark Side Battles: 6-C (Normal)",
+          "Light Side Battles: 2-F (Normal)",
+          "Dark Side Battles: 4-E (Hard)",
+          "Dark Side Battles: 4-J (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Arakyd Droid Caller",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-D (Normal)",
+          "Light Side Battles: 4-E (Hard)",
+          "Light Side Battles: 4-J (Normal)",
+          "Light Side Battles: 1-D (Hard)",
+          "Light Side Battles: 2-A (Normal)",
+          "Light Side Battles: 2-C (Hard)",
+          "Light Side Battles: 2-D (Normal)",
+          "Dark Side Battles: 6-F (Normal)",
+          "Light Side Battles: 3-C (Hard)",
+          "Dark Side Battles: 2-A (Hard)",
+          "Dark Side Battles: 2-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 BioTech Implant",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-E (Hard)",
+          "Light Side Battles: 3-G (Normal)",
+          "Light Side Battles: 4-D (Hard)",
+          "Light Side Battles: 4-H (Normal)",
+          "Light Side Battles: 1-C (Hard)",
+          "Light Side Battles: 1-F (Normal)",
+          "Light Side Battles: 2-E (Hard)",
+          "Light Side Battles: 2-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 A/KT Stun Gun",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-E (Normal)",
+          "Light Side Battles: 3-F (Hard)",
+          "Light Side Battles: 4-A (Hard)",
+          "Light Side Battles: 4-A (Normal)",
+          "Light Side Battles: 6-H (Normal)",
+          "Light Side Battles: 6-J (Normal)",
+          "Light Side Battles: 2-A (Hard)",
+          "Light Side Battles: 2-B (Normal)",
+          "Dark Side Battles: 2-I (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 CEC Fusion Furnace",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 1-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Merr-Sonn Shield Generator",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 8-G (Normal)",
+          "Light Side Battles: 3-F (Hard)",
+          "Light Side Battles: 3-G (Normal)",
+          "Light Side Battles: 1-C (Hard)",
+          "Light Side Battles: 1-F (Normal)",
+          "Dark Side Battles: 6-A (Normal)",
+          "Dark Side Battles: 6-H (Normal)",
+          "Dark Side Battles: 4-D (Hard)",
+          "Dark Side Battles: 4-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 BlasTech Weapon Mod",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-D (Hard)",
+          "Light Side Battles: 3-E (Normal)",
+          "Light Side Battles: 4-C (Hard)",
+          "Light Side Battles: 4-E (Normal)",
+          "Dark Side Battles: 6-E (Normal)",
+          "Dark Side Battles: 1-B (Hard)",
+          "Dark Side Battles: 1-F (Normal)",
+          "Dark Side Battles: 2-B (Normal)",
+          "Dark Side Battles: 2-C (Hard)",
+          "Dark Side Battles: 8-D (Normal)",
+          "Dark Side Battles: 3-B (Hard)",
+          "Dark Side Battles: 4-B (Hard)",
+          "Dark Side Battles: 4-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 BAW Armor Mod",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Neuro-Saav Electrobinoculars",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 TaggeCo Holo Lens",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-G (Normal)",
+          "Dark Side Battles: 5-D (Hard)",
+          "Dark Side Battles: 5-E (Hard)",
+          "Dark Side Battles: 5-G (Normal)",
+          "Light Side Battles: 3-A (Hard)",
+          "Light Side Battles: 3-A (Normal)",
+          "Dark Side Battles: 1-A (Normal)",
+          "Dark Side Battles: 1-B (Hard)",
+          "Dark Side Battles: 3-E (Hard)",
+          "Dark Side Battles: 3-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Nubian Security Scanner",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Loronar Power Cell",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 SoroSuub Keypad",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-D (Normal)",
+          "Light Side Battles: 8-B (Normal)",
+          "Dark Side Battles: 5-I (Normal)",
+          "Light Side Battles: 2-B (Hard)",
+          "Light Side Battles: 2-E (Normal)",
+          "Dark Side Battles: 1-C (Hard)",
+          "Dark Side Battles: 1-C (Normal)",
+          "Dark Side Battles: 8-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Czerka Stun Cuffs",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 5-D (Normal)",
+          "Light Side Battles: 2-E (Hard)",
+          "Light Side Battles: 2-G (Normal)",
+          "Dark Side Battles: 7-H (Normal)",
+          "Dark Side Battles: 3-A (Hard)",
+          "Dark Side Battles: 3-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Chiewab Hypo Syringe",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 BioTech Implant",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 CEC Fusion Furnace",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 5-D (Hard)",
+          "Dark Side Battles: 5-H (Normal)",
+          "Dark Side Battles: 1-A (Hard)",
+          "Dark Side Battles: 1-A (Normal)",
+          "Dark Side Battles: 2-A (Hard)",
+          "Dark Side Battles: 2-A (Normal)",
+          "Dark Side Battles: 8-G (Normal)",
+          "Dark Side Battles: 3-D (Hard)",
+          "Dark Side Battles: 3-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Merr-Sonn Shield Generator",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 7-F (Normal)",
+          "Dark Side Battles: 2-F (Hard)",
+          "Dark Side Battles: 2-H (Normal)",
+          "Dark Side Battles: 4-E (Hard)",
+          "Dark Side Battles: 9-H (Normal)",
+          "Dark Side Battles: 4-I (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 BlasTech Weapon Mod",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-H (Normal)",
+          "Light Side Battles: 8-F (Normal)",
+          "Light Side Battles: 5-D (Hard)",
+          "Light Side Battles: 5-G (Normal)",
+          "Light Side Battles: 3-C (Hard)",
+          "Light Side Battles: 3-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 BAW Armor Mod",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 6-C (Hard)",
+          "Dark Side Battles: 6-F (Normal)",
+          "Dark Side Battles: 7-C (Normal)",
+          "Dark Side Battles: 1-D (Hard)",
+          "Dark Side Battles: 1-E (Normal)",
+          "Dark Side Battles: 3-C (Hard)",
+          "Dark Side Battles: 5-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Neuro-Saav Electrobinoculars",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-E (Hard)",
+          "Light Side Battles: 3-G (Normal)",
+          "Light Side Battles: 5-A (Hard)",
+          "Light Side Battles: 5-B (Normal)",
+          "Light Side Battles: 5-D (Hard)",
+          "Light Side Battles: 5-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 TaggeCo Holo Lens",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Loronar Power Cell",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 6-A (Hard)",
+          "Dark Side Battles: 6-B (Normal)",
+          "Dark Side Battles: 7-B (Normal)",
+          "Dark Side Battles: 1-B (Hard)",
+          "Dark Side Battles: 1-B (Normal)",
+          "Dark Side Battles: 3-F (Hard)",
+          "Dark Side Battles: 3-I (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Fabritech Data Pad",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-H (Normal)",
+          "Light Side Battles: 5-C (Hard)",
+          "Light Side Battles: 5-E (Normal)",
+          "Light Side Battles: 6-F (Normal)",
+          "Light Side Battles: 3-B (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 1 Nubian Design Tech",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 SoroSuub Keypad",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Arakyd Droid Caller",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 8-C (Normal)",
+          "Light Side Battles: 9-A (Normal)",
+          "Light Side Battles: 5-C (Hard)",
+          "Light Side Battles: 5-F (Normal)",
+          "Light Side Battles: 2-D (Hard)",
+          "Light Side Battles: 2-H (Normal)",
+          "Dark Side Battles: 8-C (Normal)",
+          "Dark Side Battles: 3-C (Hard)",
+          "Dark Side Battles: 3-E (Normal)",
+          "Fleet Battles: 1-A (Hard)",
+          "Fleet Battles: 1-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Sienar Holo Projector",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 5-A (Normal)",
+          "Light Side Battles: 5-E (Hard)",
+          "Light Side Battles: 5-I (Normal)",
+          "Light Side Battles: 3-B (Hard)",
+          "Light Side Battles: 3-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Chiewab Hypo Syringe",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-C (Normal)",
+          "Light Side Battles: 9-F (Normal)",
+          "Light Side Battles: 4-F (Hard)",
+          "Light Side Battles: 4-K (Normal)",
+          "Dark Side Battles: 6-D (Hard)",
+          "Light Side Battles: 2-F (Hard)",
+          "Light Side Battles: 2-I (Normal)",
+          "Dark Side Battles: 6-H (Normal)",
+          "Dark Side Battles: 2-F (Hard)",
+          "Dark Side Battles: 4-A (Hard)",
+          "Dark Side Battles: 4-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 BioTech Implant",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-D (Hard)",
+          "Light Side Battles: 3-F (Normal)",
+          "Light Side Battles: 9-E (Normal)",
+          "Light Side Battles: 4-F (Hard)",
+          "Light Side Battles: 4-K (Normal)",
+          "Light Side Battles: 6-G (Normal)",
+          "Dark Side Battles: 1-C (Hard)",
+          "Dark Side Battles: 1-D (Normal)",
+          "Dark Side Battles: 2-D (Hard)",
+          "Dark Side Battles: 2-F (Normal)",
+          "Dark Side Battles: 8-F (Normal)",
+          "Dark Side Battles: 4-A (Hard)",
+          "Dark Side Battles: 4-A (Normal)",
+          "Dark Side Battles: 9-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Nubian Security Scanner",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Fabritech Data Pad",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Nubian Design Tech",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 SoroSuub Keypad",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 A/KT Stun Gun",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 CEC Fusion Furnace",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Merr-Sonn Shield Generator",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 Merr-Sonn Thermal Detonator",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Arakyd Droid Caller",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 Athakam Medpac",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 Chedak Comlink",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 A/KT Stun Gun",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Merr-Sonn Thermal Detonator",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Nubian Design Tech",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Chiewab Hypo Syringe",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Chedak Comlink",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 Carbanti Sensor Array",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Merr-Sonn Thermal Detonator",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Sienar Holo Projector",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Czerka Stun Cuffs",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 Zaltin Bacta Gel",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Athakam Medpac",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Carbanti Sensor Array",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Sienar Holo Projector",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Zaltin Bacta Gel",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Athakam Medpac",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Chedak Comlink",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Carbanti Sensor Array",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Czerka Stun Cuffs",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Zaltin Bacta Gel",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 BAW Armor Mod Prototype",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 6-E (Normal)",
+          "Light Side Battles: 2-A (Hard)",
+          "Light Side Battles: 2-C (Normal)",
+          "Dark Side Battles: 3-A (Hard)",
+          "Dark Side Battles: 3-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Neuro-Saav Electrobinoculars Prototype",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 4-A (Hard)",
+          "Light Side Battles: 4-B (Normal)",
+          "Light Side Battles: 2-F (Hard)",
+          "Light Side Battles: 2-I (Normal)",
+          "Dark Side Battles: 6-I (Normal)",
+          "Dark Side Battles: 4-B (Hard)",
+          "Dark Side Battles: 4-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Nubian Security Scanner Prototype",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 4-B (Hard)",
+          "Light Side Battles: 4-D (Normal)",
+          "Light Side Battles: 2-B (Hard)",
+          "Light Side Battles: 2-E (Normal)",
+          "Dark Side Battles: 6-D (Normal)",
+          "Dark Side Battles: 2-F (Hard)",
+          "Dark Side Battles: 2-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Chiewab Hypo Syringe Prototype",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 4-D (Hard)",
+          "Light Side Battles: 4-G (Normal)",
+          "Light Side Battles: 2-B (Normal)",
+          "Light Side Battles: 2-D (Hard)",
+          "Dark Side Battles: 6-J (Normal)",
+          "Dark Side Battles: 3-F (Hard)",
+          "Dark Side Battles: 3-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 TaggeCo Holo Lens Prototype",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-A (Normal)",
+          "Light Side Battles: 8-E (Normal)",
+          "Light Side Battles: 3-F (Hard)",
+          "Light Side Battles: 3-I (Normal)",
+          "Light Side Battles: 5-B (Hard)",
+          "Light Side Battles: 5-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Nubian Design Tech Prototype",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 3-D (Hard)",
+          "Light Side Battles: 3-D (Normal)",
+          "Light Side Battles: 5-E (Hard)",
+          "Light Side Battles: 5-J (Normal)",
+          "Dark Side Battles: 1-D (Hard)",
+          "Dark Side Battles: 1-E (Normal)",
+          "Dark Side Battles: 8-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 SoroSuub Keypad Prototype",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 6-D (Normal)",
+          "Dark Side Battles: 1-D (Hard)",
+          "Dark Side Battles: 7-E (Normal)",
+          "Dark Side Battles: 1-F (Normal)",
+          "Dark Side Battles: 3-B (Hard)",
+          "Dark Side Battles: 3-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Chiewab Hypo Syringe Prototype",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Chedak Comlink Prototype",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-E (Normal)",
+          "Light Side Battles: 9-C (Normal)",
+          "Light Side Battles: 4-A (Hard)",
+          "Light Side Battles: 4-B (Normal)",
+          "Dark Side Battles: 5-F (Hard)",
+          "Dark Side Battles: 5-L (Normal)",
+          "Dark Side Battles: 2-A (Hard)",
+          "Dark Side Battles: 2-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Carbanti Sensor Array Prototype",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Sienar Holo Projector Prototype",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 Zaltin Bacta Gel Prototype",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 2 Zaltin Bacta Gel Prototype",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Chedak Comlink Prototype",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Arakyd Droid Caller Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 4-F (Hard)",
+          "Light Side Battles: 4-L (Normal)",
+          "Dark Side Battles: 5-H (Normal)",
+          "Dark Side Battles: 7-B (Hard)",
+          "Dark Side Battles: 7-D (Normal)",
+          "Dark Side Battles: 8-C (Hard)",
+          "Dark Side Battles: 2-E (Hard)",
+          "Dark Side Battles: 2-G (Normal)",
+          "Dark Side Battles: 8-E (Normal)",
+          "Dark Side Battles: 9-B (Normal)",
+          "Dark Side Battles: 5-B (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 1 Athakam Medpac Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 8-A (Hard)",
+          "Light Side Battles: 8-A (Normal)",
+          "Light Side Battles: 3-E (Hard)",
+          "Light Side Battles: 3-F (Normal)",
+          "Light Side Battles: 6-B (Hard)",
+          "Light Side Battles: 6-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Chedak Comlink Salvage",
+        "points": 2,
+        "locations": [
+          "Dark Side Battles: 6-E (Hard)",
+          "Dark Side Battles: 6-I (Normal)",
+          "Dark Side Battles: 7-D (Hard)",
+          "Dark Side Battles: 7-H (Normal)",
+          "Dark Side Battles: 2-F (Hard)",
+          "Dark Side Battles: 2-I (Normal)",
+          "Dark Side Battles: 9-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Chiewab Hypo Syringe Prototype Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 7-D (Hard)",
+          "Light Side Battles: 7-G (Normal)",
+          "Light Side Battles: 9-B (Normal)",
+          "Dark Side Battles: 7-C (Hard)",
+          "Dark Side Battles: 7-E (Normal)",
+          "Dark Side Battles: 3-F (Hard)",
+          "Dark Side Battles: 3-I (Normal)",
+          "Dark Side Battles: 9-F (Normal)",
+          "Dark Side Battles: 5-A (Hard)",
+          "Dark Side Battles: 5-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Chedak Comlink Prototype Salvage",
+        "points": 2,
+        "locations": []
+      },
+      {
+        "name": "Mk 1 Carbanti Sensor Array Prototype Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 8-C (Hard)",
+          "Light Side Battles: 9-C (Normal)",
+          "Light Side Battles: 5-A (Hard)",
+          "Light Side Battles: 5-C (Hard)",
+          "Light Side Battles: 5-E (Normal)",
+          "Light Side Battles: 6-B (Hard)",
+          "Light Side Battles: 6-D (Normal)",
+          "Dark Side Battles: 5-D (Hard)",
+          "Dark Side Battles: 5-E (Hard)",
+          "Dark Side Battles: 6-A (Hard)",
+          "Dark Side Battles: 6-A (Normal)",
+          "Dark Side Battles: 8-B (Hard)",
+          "Dark Side Battles: 8-C (Normal)",
+          "Dark Side Battles: 3-D (Hard)",
+          "Dark Side Battles: 9-A (Normal)",
+          "Dark Side Battles: 3-D (Normal)",
+          "Dark Side Battles: 4-A (Hard)",
+          "Dark Side Battles: 4-E (Hard)",
+          "Dark Side Battles: 9-G (Normal)",
+          "Fleet Battles: 2-A (Hard)",
+          "Dark Side Battles: 4-I (Normal)",
+          "Fleet Battles: 2-C (Normal)",
+          "Fleet Battles: 4-C (Normal)",
+          "Fleet Battles: 4-D (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 7-C (Hard)",
+          "Light Side Battles: 7-F (Normal)",
+          "Light Side Battles: 9-D (Normal)",
+          "Dark Side Battles: 5-E (Normal)",
+          "Dark Side Battles: 6-D (Hard)",
+          "Dark Side Battles: 6-H (Normal)",
+          "Dark Side Battles: 3-A (Hard)",
+          "Dark Side Battles: 3-A (Normal)",
+          "Dark Side Battles: 4-D (Hard)",
+          "Dark Side Battles: 4-H (Normal)",
+          "Dark Side Battles: 5-C (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 2 Sienar Holo Projector Prototype Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 4-A (Hard)",
+          "Light Side Battles: 4-A (Normal)",
+          "Light Side Battles: 9-F (Normal)",
+          "Light Side Battles: 6-C (Hard)",
+          "Light Side Battles: 6-E (Normal)",
+          "Dark Side Battles: 7-A (Hard)",
+          "Dark Side Battles: 7-A (Normal)",
+          "Dark Side Battles: 3-F (Hard)",
+          "Dark Side Battles: 3-H (Normal)",
+          "Dark Side Battles: 9-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 1 Zaltin Bacta Gel Prototype Salvage",
+        "points": 2,
+        "locations": [
+          "Dark Side Battles: 5-E (Hard)",
+          "Dark Side Battles: 5-I (Normal)",
+          "Dark Side Battles: 6-C (Hard)",
+          "Dark Side Battles: 6-E (Normal)",
+          "Dark Side Battles: 7-B (Hard)",
+          "Dark Side Battles: 7-C (Normal)",
+          "Dark Side Battles: 9-C (Hard)",
+          "Dark Side Battles: 4-A (Hard)",
+          "Dark Side Battles: 4-A (Normal)",
+          "Dark Side Battles: 9-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Sienar Holo Projector Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 7-A (Hard)",
+          "Light Side Battles: 7-A (Normal)",
+          "Light Side Battles: 9-F (Normal)",
+          "Light Side Battles: 6-A (Hard)",
+          "Light Side Battles: 6-A (Normal)",
+          "Dark Side Battles: 8-D (Hard)",
+          "Dark Side Battles: 8-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 2 Zaltin Bacta Gel Prototype Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 8-B (Hard)",
+          "Light Side Battles: 8-D (Normal)",
+          "Light Side Battles: 9-D (Hard)",
+          "Light Side Battles: 6-B (Hard)",
+          "Light Side Battles: 6-D (Normal)",
+          "Dark Side Battles: 6-B (Hard)",
+          "Dark Side Battles: 6-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Chedak Comlink Prototype Salvage",
+        "points": 2,
+        "locations": [
+          "Dark Side Battles: 6-E (Hard)",
+          "Dark Side Battles: 6-J (Normal)",
+          "Dark Side Battles: 8-A (Hard)",
+          "Dark Side Battles: 8-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Carbanti Sensor Array Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 7-D (Hard)",
+          "Light Side Battles: 7-G (Normal)",
+          "Light Side Battles: 8-C (Hard)",
+          "Light Side Battles: 8-F (Normal)",
+          "Dark Side Battles: 6-D (Hard)",
+          "Dark Side Battles: 6-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Czerka Stun Cuffs Salvage",
+        "points": 2,
+        "locations": [
+          "Light Side Battles: 7-B (Hard)",
+          "Light Side Battles: 7-D (Normal)",
+          "Light Side Battles: 8-D (Hard)",
+          "Light Side Battles: 8-G (Normal)",
+          "Dark Side Battles: 8-B (Hard)",
+          "Dark Side Battles: 8-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Zaltin Bacta Gel Salvage",
+        "points": 2,
+        "locations": []
+      }
+    ]
+  },
+  "bronziumWiring": {
+    "name": "Bronzium Wiring",
+    "requiredPoints": 45,
+    "gear": [
+      {
+        "name": "Mk 4 BlasTech Weapon Mod",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Neuro-Saav Electrobinoculars",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Loronar Power Cell",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 BioTech Implant",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 BlasTech Weapon Mod",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 BAW Armor Mod",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Neuro-Saav Electrobinoculars",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 TaggeCo Holo Lens",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Loronar Power Cell",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Fabritech Data Pad",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 BioTech Implant",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 BlasTech Weapon Mod",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 BAW Armor Mod",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 TaggeCo Holo Lens",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Nubian Security Scanner",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Loronar Power Cell",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Fabritech Data Pad",
+        "points": 20,
+        "locations": [
+          "Light Side Battles: 7-B (Normal)",
+          "Light Side Battles: 8-A (Normal)",
+          "Light Side Battles: 9-B (Normal)",
+          "Light Side Battles: 5-F (Hard)",
+          "Light Side Battles: 5-K (Normal)",
+          "Light Side Battles: 6-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Merr-Sonn Shield Generator",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 BAW Armor Mod",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 TaggeCo Holo Lens",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Fabritech Data Pad",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Nubian Design Tech",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Merr-Sonn Shield Generator",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Merr-Sonn Thermal Detonator",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Neuro-Saav Electrobinoculars",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Nubian Security Scanner",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Nubian Design Tech",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 SoroSuub Keypad",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Arakyd Droid Caller",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Chiewab Hypo Syringe",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 BioTech Implant",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 A/KT Stun Gun",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 CEC Fusion Furnace",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Nubian Security Scanner",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 SoroSuub Keypad",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Chiewab Hypo Syringe",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Merr-Sonn Shield Generator",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Arakyd Droid Caller",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Chiewab Hypo Syringe",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Athakam Medpac",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Chedak Comlink",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 A/KT Stun Gun",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 CEC Fusion Furnace",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Carbanti Sensor Array",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Merr-Sonn Thermal Detonator",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Nubian Design Tech",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 SoroSuub Keypad",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Czerka Stun Cuffs",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Athakam Medpac",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Carbanti Sensor Array",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Sienar Holo Projector",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Chedak Comlink",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 A/KT Stun Gun",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 CEC Fusion Furnace",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Merr-Sonn Thermal Detonator",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Arakyd Droid Caller",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Zaltin Bacta Gel",
+        "points": 20,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 BlasTech Weapon Mod Prototype",
+        "points": 12,
+        "locations": [
+          "Light Side Battles: 4-C (Hard)",
+          "Light Side Battles: 4-E (Normal)",
+          "Dark Side Battles: 5-E (Hard)",
+          "Dark Side Battles: 5-J (Normal)",
+          "Dark Side Battles: 7-G (Normal)",
+          "Dark Side Battles: 2-E (Hard)",
+          "Dark Side Battles: 2-H (Normal)",
+          "Dark Side Battles: 9-A (Normal)",
+          "Dark Side Battles: 9-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Loronar Power Cell Prototype",
+        "points": 12,
+        "locations": [
+          "Dark Side Battles: 5-F (Normal)",
+          "Dark Side Battles: 6-E (Hard)",
+          "Dark Side Battles: 6-J (Normal)",
+          "Dark Side Battles: 2-C (Hard)",
+          "Dark Side Battles: 2-C (Normal)",
+          "Dark Side Battles: 8-B (Normal)",
+          "Dark Side Battles: 9-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 BioTech Implant Prototype",
+        "points": 12,
+        "locations": [
+          "Light Side Battles: 8-D (Normal)",
+          "Light Side Battles: 9-D (Normal)",
+          "Light Side Battles: 4-D (Hard)",
+          "Light Side Battles: 4-H (Normal)",
+          "Light Side Battles: 6-B (Normal)",
+          "Dark Side Battles: 2-E (Hard)",
+          "Dark Side Battles: 2-E (Normal)",
+          "Dark Side Battles: 8-H (Normal)",
+          "Dark Side Battles: 9-C (Normal)",
+          "Dark Side Battles: 4-C (Hard)",
+          "Dark Side Battles: 4-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 BlasTech Weapon Mod Prototype",
+        "points": 12,
+        "locations": [
+          "Light Side Battles: 4-E (Hard)",
+          "Light Side Battles: 4-J (Normal)",
+          "Dark Side Battles: 5-C (Normal)",
+          "Dark Side Battles: 7-A (Normal)",
+          "Dark Side Battles: 2-B (Hard)",
+          "Dark Side Battles: 2-B (Normal)",
+          "Dark Side Battles: 9-F (Normal)",
+          "Dark Side Battles: 5-B (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 4 Fabritech Data Pad Prototype",
+        "points": 12,
+        "locations": [
+          "Light Side Battles: 7-F (Normal)",
+          "Light Side Battles: 4-B (Hard)",
+          "Light Side Battles: 9-H (Normal)",
+          "Light Side Battles: 4-D (Normal)",
+          "Dark Side Battles: 2-D (Hard)",
+          "Dark Side Battles: 2-F (Normal)",
+          "Dark Side Battles: 3-D (Normal)",
+          "Dark Side Battles: 5-A (Hard)",
+          "Dark Side Battles: 5-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 BioTech Implant Prototype",
+        "points": 12,
+        "locations": [
+          "Dark Side Battles: 5-F (Hard)",
+          "Dark Side Battles: 5-K (Normal)",
+          "Dark Side Battles: 1-C (Hard)",
+          "Dark Side Battles: 1-C (Normal)",
+          "Dark Side Battles: 7-D (Normal)",
+          "Dark Side Battles: 9-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 6 BlasTech Weapon Mod Prototype",
+        "points": 12,
+        "locations": [
+          "Light Side Battles: 9-G (Normal)",
+          "Light Side Battles: 5-B (Hard)",
+          "Light Side Battles: 5-D (Normal)",
+          "Light Side Battles: 6-A (Normal)",
+          "Dark Side Battles: 5-E (Normal)",
+          "Dark Side Battles: 5-C (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 5 TaggeCo Holo Lens Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Nubian Security Scanner Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 TaggeCo Holo Lens Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Nubian Security Scanner Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Nubian Design Tech Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Chiewab Hypo Syringe Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 BioTech Implant Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 CEC Fusion Furnace Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Nubian Security Scanner Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Chiewab Hypo Syringe Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Chedak Comlink Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 A/KT Stun Gun Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 4 Carbanti Sensor Array Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Athakam Medpac Prototype",
+        "points": 12,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Athakam Medpac Component",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 9-C (Hard)",
+          "Dark Side Battles: 9-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 BAW Armor Mod Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 6-C (Hard)",
+          "Light Side Battles: 6-F (Normal)",
+          "Light Side Battles: 3-A (Hard)",
+          "Light Side Battles: 3-A (Normal)",
+          "Dark Side Battles: 7-D (Hard)",
+          "Dark Side Battles: 7-G (Normal)",
+          "Dark Side Battles: 2-C (Hard)",
+          "Dark Side Battles: 8-B (Hard)",
+          "Dark Side Battles: 2-C (Normal)",
+          "Dark Side Battles: 8-D (Normal)",
+          "Dark Side Battles: 9-A (Normal)",
+          "Dark Side Battles: 3-E (Hard)",
+          "Dark Side Battles: 3-F (Normal)",
+          "Dark Side Battles: 5-A (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 5 Neuro-Saav Electrobinoculars Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 4-D (Hard)",
+          "Light Side Battles: 4-G (Normal)",
+          "Light Side Battles: 5-A (Hard)",
+          "Light Side Battles: 5-B (Normal)",
+          "Light Side Battles: 6-E (Hard)",
+          "Light Side Battles: 6-I (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 TaggeCo Holo Lens Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-B (Hard)",
+          "Light Side Battles: 7-C (Normal)",
+          "Light Side Battles: 8-B (Hard)",
+          "Light Side Battles: 8-D (Normal)",
+          "Light Side Battles: 4-B (Hard)",
+          "Light Side Battles: 4-C (Normal)",
+          "Light Side Battles: 5-F (Hard)",
+          "Light Side Battles: 5-L (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Loronar Power Cell Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-D (Hard)",
+          "Light Side Battles: 7-H (Normal)",
+          "Light Side Battles: 4-C (Hard)",
+          "Light Side Battles: 4-F (Normal)",
+          "Light Side Battles: 5-D (Hard)",
+          "Light Side Battles: 5-G (Normal)",
+          "Dark Side Battles: 2-D (Hard)",
+          "Dark Side Battles: 8-C (Hard)",
+          "Dark Side Battles: 2-E (Normal)",
+          "Dark Side Battles: 8-F (Normal)",
+          "Dark Side Battles: 4-B (Normal)",
+          "Dark Side Battles: 5-C (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 4 Fabritech Data Pad Prototype Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 BioTech Implant Prototype Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 BlasTech Weapon Mod Prototype Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 BAW Armor Mod Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 4-E (Hard)",
+          "Light Side Battles: 4-I (Normal)",
+          "Light Side Battles: 5-A (Hard)",
+          "Light Side Battles: 5-A (Normal)",
+          "Light Side Battles: 6-D (Hard)",
+          "Light Side Battles: 6-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 TaggeCo Holo Lens Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 5-D (Hard)",
+          "Dark Side Battles: 5-G (Normal)",
+          "Dark Side Battles: 7-A (Hard)",
+          "Dark Side Battles: 7-B (Normal)",
+          "Dark Side Battles: 8-D (Hard)",
+          "Dark Side Battles: 8-G (Normal)",
+          "Dark Side Battles: 3-E (Hard)",
+          "Dark Side Battles: 9-B (Normal)",
+          "Dark Side Battles: 3-G (Normal)",
+          "Dark Side Battles: 9-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Nubian Security Scanner Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-B (Hard)",
+          "Light Side Battles: 7-D (Normal)",
+          "Light Side Battles: 8-B (Hard)",
+          "Light Side Battles: 8-C (Normal)",
+          "Light Side Battles: 9-B (Hard)",
+          "Light Side Battles: 9-G (Normal)",
+          "Light Side Battles: 9-H (Normal)",
+          "Dark Side Battles: 3-C (Hard)",
+          "Dark Side Battles: 3-C (Normal)",
+          "Dark Side Battles: 4-D (Hard)",
+          "Dark Side Battles: 4-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 6 Loronar Power Cell Salvage",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 6-D (Hard)",
+          "Dark Side Battles: 6-G (Normal)",
+          "Dark Side Battles: 2-A (Normal)",
+          "Dark Side Battles: 8-A (Hard)",
+          "Dark Side Battles: 2-B (Hard)",
+          "Dark Side Battles: 8-A (Normal)",
+          "Dark Side Battles: 9-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 6 TaggeCo Holo Lens Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-C (Hard)",
+          "Light Side Battles: 7-E (Normal)",
+          "Light Side Battles: 9-A (Normal)",
+          "Dark Side Battles: 6-A (Hard)",
+          "Dark Side Battles: 6-B (Normal)",
+          "Dark Side Battles: 9-B (Hard)",
+          "Dark Side Battles: 4-B (Hard)",
+          "Dark Side Battles: 4-C (Normal)",
+          "Dark Side Battles: 4-F (Hard)",
+          "Dark Side Battles: 4-L (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 6 Fabritech Data Pad Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 9-A (Normal)",
+          "Light Side Battles: 6-A (Hard)",
+          "Light Side Battles: 6-A (Normal)",
+          "Dark Side Battles: 6-C (Hard)",
+          "Dark Side Battles: 6-E (Normal)",
+          "Dark Side Battles: 3-B (Hard)",
+          "Dark Side Battles: 3-B (Normal)",
+          "Dark Side Battles: 4-B (Hard)",
+          "Dark Side Battles: 9-E (Normal)",
+          "Dark Side Battles: 4-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 8-C (Hard)",
+          "Light Side Battles: 8-F (Normal)",
+          "Light Side Battles: 9-D (Hard)",
+          "Light Side Battles: 9-D (Normal)",
+          "Light Side Battles: 5-E (Hard)",
+          "Light Side Battles: 5-J (Normal)",
+          "Light Side Battles: 6-E (Hard)",
+          "Light Side Battles: 6-J (Normal)",
+          "Dark Side Battles: 5-J (Normal)",
+          "Dark Side Battles: 6-B (Hard)",
+          "Dark Side Battles: 8-D (Hard)",
+          "Dark Side Battles: 8-H (Normal)",
+          "Dark Side Battles: 9-D (Hard)",
+          "Dark Side Battles: 4-F (Hard)",
+          "Dark Side Battles: 9-H (Normal)",
+          "Dark Side Battles: 4-K (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 8-A (Hard)",
+          "Light Side Battles: 8-B (Normal)",
+          "Light Side Battles: 9-C (Hard)",
+          "Light Side Battles: 9-C (Normal)",
+          "Light Side Battles: 5-B (Hard)",
+          "Light Side Battles: 5-D (Normal)",
+          "Light Side Battles: 6-D (Hard)",
+          "Light Side Battles: 6-G (Normal)",
+          "Dark Side Battles: 6-B (Hard)",
+          "Dark Side Battles: 6-C (Normal)",
+          "Dark Side Battles: 9-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Nubian Security Scanner Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 6-A (Hard)",
+          "Dark Side Battles: 6-A (Normal)",
+          "Dark Side Battles: 6-E (Hard)",
+          "Dark Side Battles: 6-I (Normal)",
+          "Dark Side Battles: 9-B (Hard)",
+          "Dark Side Battles: 5-A (Hard)",
+          "Dark Side Battles: 5-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Nubian Design Tech Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 6-B (Hard)",
+          "Light Side Battles: 6-C (Normal)",
+          "Dark Side Battles: 5-C (Hard)",
+          "Dark Side Battles: 5-F (Normal)",
+          "Dark Side Battles: 8-D (Hard)",
+          "Dark Side Battles: 8-G (Normal)",
+          "Dark Side Battles: 9-D (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 4 SoroSuub Keypad Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 8-D (Hard)",
+          "Light Side Battles: 8-H (Normal)",
+          "Light Side Battles: 9-A (Hard)",
+          "Light Side Battles: 9-E (Normal)",
+          "Light Side Battles: 5-C (Hard)",
+          "Light Side Battles: 5-F (Normal)",
+          "Light Side Battles: 6-E (Hard)",
+          "Light Side Battles: 6-J (Normal)",
+          "Dark Side Battles: 6-B (Hard)",
+          "Dark Side Battles: 6-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Arakyd Droid Caller Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-D (Hard)",
+          "Light Side Battles: 7-H (Normal)",
+          "Light Side Battles: 9-H (Normal)",
+          "Light Side Battles: 6-D (Hard)",
+          "Light Side Battles: 6-H (Normal)",
+          "Dark Side Battles: 5-F (Hard)",
+          "Dark Side Battles: 5-K (Normal)",
+          "Dark Side Battles: 7-D (Hard)",
+          "Dark Side Battles: 7-G (Normal)",
+          "Dark Side Battles: 9-A (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 4 Chiewab Hypo Syringe Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-A (Hard)",
+          "Light Side Battles: 7-A (Normal)",
+          "Light Side Battles: 9-B (Normal)",
+          "Light Side Battles: 6-A (Hard)",
+          "Light Side Battles: 6-B (Normal)",
+          "Dark Side Battles: 3-D (Hard)",
+          "Dark Side Battles: 3-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 6 BioTech Implant Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 6-D (Hard)",
+          "Light Side Battles: 6-G (Normal)",
+          "Dark Side Battles: 5-F (Hard)",
+          "Dark Side Battles: 5-L (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 A/KT Stun Gun Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 5-B (Hard)",
+          "Light Side Battles: 5-C (Normal)",
+          "Light Side Battles: 6-C (Hard)",
+          "Light Side Battles: 6-E (Normal)",
+          "Dark Side Battles: 6-C (Hard)",
+          "Dark Side Battles: 6-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 CEC Fusion Furnace Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 8-A (Hard)",
+          "Light Side Battles: 8-B (Normal)",
+          "Dark Side Battles: 5-D (Normal)",
+          "Dark Side Battles: 7-B (Hard)",
+          "Dark Side Battles: 7-D (Normal)",
+          "Dark Side Battles: 9-C (Hard)",
+          "Dark Side Battles: 5-B (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 6 Nubian Security Scanner Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 8-B (Hard)",
+          "Light Side Battles: 8-C (Normal)",
+          "Light Side Battles: 9-C (Hard)",
+          "Light Side Battles: 6-A (Hard)",
+          "Light Side Battles: 6-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 SoroSuub Keypad Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-A (Hard)",
+          "Light Side Battles: 7-B (Normal)",
+          "Light Side Battles: 9-G (Normal)",
+          "Light Side Battles: 5-F (Hard)",
+          "Light Side Battles: 5-K (Normal)",
+          "Light Side Battles: 6-E (Hard)",
+          "Light Side Battles: 6-I (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Chiewab Hypo Syringe Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 6-C (Hard)",
+          "Light Side Battles: 6-F (Normal)",
+          "Dark Side Battles: 7-D (Hard)",
+          "Dark Side Battles: 7-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 6 Chiewab Hypo Syringe Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 7-C (Hard)",
+          "Light Side Battles: 7-E (Normal)",
+          "Light Side Battles: 8-C (Hard)",
+          "Light Side Battles: 8-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Chedak Comlink Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 7-A (Hard)",
+          "Dark Side Battles: 7-B (Normal)",
+          "Dark Side Battles: 8-B (Hard)",
+          "Dark Side Battles: 8-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 A/KT Stun Gun Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 7-C (Hard)",
+          "Dark Side Battles: 7-E (Normal)",
+          "Dark Side Battles: 8-A (Hard)",
+          "Dark Side Battles: 8-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Carbanti Sensor Array Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 7-B (Hard)",
+          "Dark Side Battles: 7-C (Normal)",
+          "Dark Side Battles: 8-C (Hard)",
+          "Dark Side Battles: 8-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 9-D (Hard)",
+          "Dark Side Battles: 7-C (Hard)",
+          "Dark Side Battles: 7-F (Normal)",
+          "Dark Side Battles: 8-C (Hard)",
+          "Dark Side Battles: 8-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Athakam Medpac Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 9-D (Hard)",
+          "Light Side Battles: 9-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Arakyd Droid Caller Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 CEC Fusion Furnace Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Nubian Design Tech Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Arakyd Droid Caller Salvage",
+        "points": 4,
+        "locations": [
+          "Light Side Battles: 9-D (Normal)",
+          "Fleet Battles: 5-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Zaltin Bacta Gel Salvage",
+        "points": 4,
+        "locations": [
+          "Dark Side Battles: 9-C (Normal)",
+          "Fleet Battles: 5-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 4 Sienar Holo Projector Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 CEC Fusion Furnace Salvage",
+        "points": 4,
+        "locations": []
+      },
+      {
+        "name": "Mk 6 Merr-Sonn Thermal Detonator Salvage",
+        "points": 4,
+        "locations": []
+      }
+    ]
+  },
+  "chromiumTransistor": {
+    "name": "Chromium Transistor",
+    "requiredPoints": 45,
+    "gear": [
+      {
+        "name": "MK 7 BlasTech Weapon Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 BAW Armor Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Loronar Power Cell",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Fabritech Data Pad",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BlasTech Weapon Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Neuro-Saav Electrobinoculars",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 TaggeCo Holo Lens",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 TaggeCo Holo Lens",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 Fabritech Data Pad",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 BioTech Implant",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 BlasTech Weapon Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BAW Armor Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "MK 8 Neuro-Saav Electrobinoculars",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 TaggeCo Holo Lens",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Nubian Security Scanner",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BioTech Implant",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Merr-Sonn Shield Generator",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 10 BlasTech Weapon Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 BAW Armor Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 Neuro-Saav Electrobinoculars",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 10 TaggeCo Holo Lens",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 Loronar Power Cell",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 Fabritech Data Pad",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 11 BlasTech Weapon Mod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 10 Neuro-Saav Electrobinoculars",
+        "points": 300,
+        "locations": [
+          "Dark Side Battles: 9-B (Hard)",
+          "Dark Side Battles: 9-C (Normal)",
+          "Dark Side Battles: 9-D (Hard)",
+          "Dark Side Battles: 9-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 9 BioTech Implant",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Kyrotech Shock Prod",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 Kyrotech Battle Computer",
+        "points": 300,
+        "locations": []
+      },
+      {
+        "name": "MK 7 BlasTech Weapon Mod Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 BAW Armor Mod Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BlasTech Weapon Mod Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 BioTech Implant Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 10 BlasTech Weapon Mod Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "MK 8 Neuro-Saav Electrobinoculars Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BioTech Implant Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 Fabritech Data Pad Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Kyrotech Shock Prod Prototype",
+        "points": 30,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 Kyrotech Battle Computer Prototype",
+        "points": 30,
+        "locations": [
+          "Dark Side Battles: 8-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 10 BlasTech Weapon Mod Component",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 8-D (Hard)",
+          "Light Side Battles: 8-H (Normal)",
+          "Dark Side Battles: 9-A (Hard)",
+          "Dark Side Battles: 9-A (Normal)"
+        ]
+      },
+      {
+        "name": "MK 8 Neuro-Saav Electrobinoculars Component",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 9-A (Hard)",
+          "Dark Side Battles: 9-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 8 BioTech Implant Component",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 9-C (Hard)",
+          "Dark Side Battles: 9-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 9 Fabritech Data Pad Component",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 9-B (Hard)",
+          "Dark Side Battles: 9-D (Hard)",
+          "Dark Side Battles: 9-D (Normal)",
+          "Dark Side Battles: 9-H (Normal)"
+        ]
+      },
+      {
+        "name": "MK 7 BlasTech Weapon Mod Prototype Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 8-D (Hard)",
+          "Light Side Battles: 8-G (Normal)",
+          "Light Side Battles: 9-A (Hard)",
+          "Light Side Battles: 9-E (Normal)",
+          "Dark Side Battles: 5-C (Normal)",
+          "Dark Side Battles: 7-C (Hard)",
+          "Dark Side Battles: 7-F (Normal)",
+          "Dark Side Battles: 9-C (Normal)",
+          "Dark Side Battles: 4-C (Hard)",
+          "Dark Side Battles: 4-E (Normal)",
+          "Dark Side Battles: 5-B (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 7 BAW Armor Mod Prototype Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-B (Normal)",
+          "Light Side Battles: 5-E (Hard)",
+          "Light Side Battles: 5-I (Normal)",
+          "Light Side Battles: 7-A (Hard)",
+          "Dark Side Battles: 8-A (Hard)",
+          "Dark Side Battles: 8-B (Normal)",
+          "Dark Side Battles: 9-A (Hard)",
+          "Dark Side Battles: 4-C (Hard)",
+          "Dark Side Battles: 9-E (Normal)",
+          "Dark Side Battles: 4-E (Hard)",
+          "Dark Side Battles: 4-F (Normal)",
+          "Dark Side Battles: 4-J (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 8 BlasTech Weapon Mod Prototype Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-C (Hard)",
+          "Light Side Battles: 7-F (Normal)",
+          "Light Side Battles: 8-A (Hard)",
+          "Light Side Battles: 8-A (Normal)",
+          "Light Side Battles: 9-B (Hard)",
+          "Light Side Battles: 5-D (Hard)",
+          "Light Side Battles: 5-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 7 BioTech Implant Prototype Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-B (Hard)",
+          "Light Side Battles: 7-C (Normal)",
+          "Dark Side Battles: 7-A (Hard)",
+          "Dark Side Battles: 7-A (Normal)"
+        ]
+      },
+      {
+        "name": "MK 8 Neuro-Saav Electrobinoculars Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 9-B (Hard)",
+          "Light Side Battles: 9-D (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 8 BioTech Implant Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 9-C (Hard)",
+          "Light Side Battles: 9-F (Normal)",
+          "Light Side Battles: 9-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 10 BlasTech Weapon Mod Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 8-D (Hard)",
+          "Light Side Battles: 8-H (Normal)",
+          "Dark Side Battles: 9-A (Hard)",
+          "Dark Side Battles: 9-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 9 Fabritech Data Pad Salvage",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 9-B (Hard)",
+          "Dark Side Battles: 9-D (Hard)",
+          "Dark Side Battles: 9-D (Normal)",
+          "Dark Side Battles: 9-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 7 Nubian Security Scanner Salvage",
+        "points": 6,
+        "locations": [
+          "Fleet Battles: 5-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 9 BioTech Implant Salvage",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 9-D (Normal)",
+          "Fleet Battles: 5-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 9 Neuro-Saav Electrobinoculars Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 9-B (Hard)",
+          "Light Side Battles: 9-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 10 TaggeCo Holo Lens Salvage",
+        "points": 6,
+        "locations": [
+          "Fleet Battles: 4-D (Normal)",
+          "Fleet Battles: 5-A (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 11 BlasTech Weapon Mod Salvage",
+        "points": 6,
+        "locations": []
+      },
+      {
+        "name": "Mk 10 Neuro-Saav Electrobinoculars Salvage",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 9-B (Hard)",
+          "Dark Side Battles: 9-C (Normal)",
+          "Dark Side Battles: 9-D (Hard)",
+          "Dark Side Battles: 9-G (Normal)",
+          "Fleet Battles: 5-D (Hard)"
+        ]
+      },
+      {
+        "name": "Mk 7 Merr-Sonn Shield Generator Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 9-A (Hard)",
+          "Light Side Battles: 9-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 7 Kyrotech Shock Prod Prototype Salvage",
+        "points": 6,
+        "locations": [
+          "Light Side Battles: 7-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 9 Kyrotech Battle Computer Prototype Salvage",
+        "points": 6,
+        "locations": [
+          "Dark Side Battles: 8-A (Normal)"
+        ]
+      }
+    ]
+  },
+  "aurodiumHeatsink": {
+    "name": "Aurodium Heatsink",
+    "requiredPoints": 50,
+    "gear": [
+      {
+        "name": "Mk 3 Sienar Holo Projector",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Carbanti Sensor Array",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 3 Czerka Stun Cuffs",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 A/KT Stun Gun",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BioTech Implant",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Merr-Sonn Shield Generator",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Kyrotech Shock Prod",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 Kyrotech Battle Computer",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 A/KT Stun Gun Prototype",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BioTech Implant Prototype",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 5 Athakam Medpac Prototype",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Kyrotech Shock Prod Prototype",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 9 Kyrotech Battle Computer Prototype",
+        "points": 500,
+        "locations": []
+      },
+      {
+        "name": "Mk 8 BioTech Implant Component",
+        "points": 10,
+        "locations": [
+          "Dark Side Battles: 9-C (Hard)",
+          "Dark Side Battles: 9-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Athakam Medpac Component",
+        "points": 10,
+        "locations": [
+          "Dark Side Battles: 9-C (Hard)",
+          "Dark Side Battles: 9-F (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Sienar Holo Projector Salvage",
+        "points": 10,
+        "locations": [
+          "Light Side Battles: 7-A (Hard)",
+          "Light Side Battles: 7-A (Normal)",
+          "Light Side Battles: 9-F (Normal)",
+          "Light Side Battles: 6-A (Hard)",
+          "Light Side Battles: 6-A (Normal)",
+          "Dark Side Battles: 8-D (Hard)",
+          "Dark Side Battles: 8-H (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Carbanti Sensor Array Salvage",
+        "points": 10,
+        "locations": [
+          "Light Side Battles: 7-D (Hard)",
+          "Light Side Battles: 7-G (Normal)",
+          "Light Side Battles: 8-C (Hard)",
+          "Light Side Battles: 8-F (Normal)",
+          "Dark Side Battles: 6-D (Hard)",
+          "Dark Side Battles: 6-G (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 3 Czerka Stun Cuffs Salvage",
+        "points": 10,
+        "locations": [
+          "Light Side Battles: 7-B (Hard)",
+          "Light Side Battles: 7-D (Normal)",
+          "Light Side Battles: 8-D (Hard)",
+          "Light Side Battles: 8-G (Normal)",
+          "Dark Side Battles: 8-B (Hard)",
+          "Dark Side Battles: 8-C (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 A/KT Stun Gun Prototype Salvage",
+        "points": 10,
+        "locations": [
+          "Dark Side Battles: 7-C (Hard)",
+          "Dark Side Battles: 7-E (Normal)",
+          "Dark Side Battles: 8-A (Hard)",
+          "Dark Side Battles: 8-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 5 Arakyd Droid Caller Salvage",
+        "points": 10,
+        "locations": []
+      },
+      {
+        "name": "Mk 7 Merr-Sonn Shield Generator Salvage",
+        "points": 10,
+        "locations": [
+          "Light Side Battles: 9-A (Hard)",
+          "Light Side Battles: 9-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 7 Kyrotech Shock Prod Prototype Salvage",
+        "points": 10,
+        "locations": [
+          "Light Side Battles: 7-B (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 9 Kyrotech Battle Computer Prototype Salvage",
+        "points": 10,
+        "locations": [
+          "Dark Side Battles: 8-A (Normal)"
+        ]
+      }
+    ]
+  },
+  "electriumConductor": {
+    "name": "Electrium Conductor",
+    "requiredPoints": 80,
+    "gear": [
+      {
+        "name": "Mk 12 ArmaTek Armor Plating",
+        "points": 1050,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Visor",
+        "points": 1050,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Wrist Band",
+        "points": 1050,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Cybernetics",
+        "points": 1050,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Armor Plating Prototype",
+        "points": 450,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Visor Prototype",
+        "points": 450,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Wrist Band Prototype",
+        "points": 450,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Cybernetics Prototype",
+        "points": 450,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Armor Plating Prototype Salvage",
+        "points": 15,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Visor Prototype Salvage",
+        "points": 15,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Wrist Band Prototype Salvage",
+        "points": 15,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Cybernetics Prototype Salvage",
+        "points": 15,
+        "locations": []
+      }
+    ]
+  },
+  "zinbiddleCard": {
+    "name": "Zinbiddle Card",
+    "requiredPoints": 90,
+    "gear": [
+      {
+        "name": "Mk 12 ArmaTek Thermal Detonator Prototype",
+        "points": 900,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Key Pad Prototype",
+        "points": 900,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Holo Lens Prototype",
+        "points": 900,
+        "locations": []
+      },
+      {
+        "name": "Mk 12 ArmaTek Thermal Detonator Prototype Salvage",
+        "points": 18,
+        "locations": [
+          "Fleet Battles: 4-E (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 12 ArmaTek Key Pad Prototype Salvage",
+        "points": 18,
+        "locations": [
+          "Fleet Battles: 3-A (Normal)"
+        ]
+      },
+      {
+        "name": "Mk 12 ArmaTek Holo Lens Prototype Salvage",
+        "points": 18,
+        "locations": [
+          "Fleet Battles: 3-C (Normal)"
+        ]
+      }
+    ]
+  }
+}

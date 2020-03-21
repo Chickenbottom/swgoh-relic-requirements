@@ -38,3 +38,11 @@ input[type="number"]:focus,
   cursor: pointer;
 }
 
+.subText {
+  font-size: 0.75em;
+}
+
+.character-name {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
